@@ -6,4 +6,6 @@
 
 ![Gradiente Geometrico](http://latex.codecogs.com/gif.latex?P_%7B%5Cleft%28G%5Cright%29%7D%5C%3A%3D%5C%3AA_1%5Ccdot%20%5Cfrac%7Bn%7D%7Bi&plus;1%7D%2C%5C%3ACuando%5C%3Ag%5C%3A%3Di)
 
+### Bibliografia
+
 [[1] Extraida de Ingenieria Economica 7 Edición Anthony Tarquin](http://t0.gstatic.com/images?q=tbn:ANd9GcQlaWYH6DgGjje7c5nwsU099nZnMS-_eXIoHm-dP5b85n1tcni3)
