@@ -10,6 +10,8 @@
 
 ![Notación y Ecuaciones Interes Compuesto](https://i.ibb.co/6JPpVyz/Notaci-n-y-Ecuaciones-Interes-Compuesto.png)
 
+![Cantidad Unica](https://i.ibb.co/347fsqQ/Cantidad-Unica.png)
+
 Donde:
 
 * ![Valor Futuro](http://latex.codecogs.com/gif.latex?F%3A%5C%3AValor%5C%3AFuturo) 
